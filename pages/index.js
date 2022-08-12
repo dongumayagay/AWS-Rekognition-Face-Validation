@@ -7,8 +7,10 @@ export default function Home() {
             <Head>
                 <title>Home | Person Verifier </title>
             </Head>
-            <main>
-                <h1 className="text-2xl">Homepage</h1>
+            <main className="py-8">
+                <div className="container">
+                    <h1 className="text-2xl">Homepage</h1>
+                </div>
             </main>
         </>
     );

@@ -1,3 +1,7 @@
 export default function Footer() {
-    return <footer>this is a footer</footer>;
+    return (
+        <footer className="py-8 bg-black text-white">
+            <main className="container">this is a footer</main>
+        </footer>
+    );
 }
