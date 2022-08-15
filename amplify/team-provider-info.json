@@ -1,0 +1,21 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-kyctestdon-dev-125023-authRole",
+      "UnauthRoleArn": "arn:aws:iam::933594548532:role/amplify-kyctestdon-dev-125023-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::933594548532:role/amplify-kyctestdon-dev-125023-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-kyctestdon-dev-125023-deployment",
+      "UnauthRoleName": "amplify-kyctestdon-dev-125023-unauthRole",
+      "StackName": "amplify-kyctestdon-dev-125023",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:933594548532:stack/amplify-kyctestdon-dev-125023/746081a0-1ac3-11ed-9764-021966f7f3ae",
+      "AmplifyAppId": "d2cpn67nk7857l"
+    },
+    "categories": {
+      "auth": {
+        "kyctestdon32f8a293": {},
+        "true": {}
+      }
+    }
+  }
+}
